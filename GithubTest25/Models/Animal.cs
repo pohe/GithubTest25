@@ -12,8 +12,8 @@ namespace GithubTest25.Models
 
 		public string NameCrome
 		{
-			get { return _name; }
-			set { _name = value; }
+			get { return _nameCrome; }
+			set { _nameCrome = value; }
 		}
 
 	}
