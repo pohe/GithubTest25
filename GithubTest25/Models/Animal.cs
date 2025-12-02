@@ -8,12 +8,12 @@ namespace GithubTest25.Models
 {
     public class Animal
     {
-		private string _name;
+		private string _nameEdge;
 
-		public string Name
+		public string NameEdge
 		{
-			get { return _name; }
-			set { _name = value; }
+			get { return _nameEdge; }
+			set { _nameEdge = value; }
 		}
 
 	}
