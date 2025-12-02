@@ -8,12 +8,12 @@ namespace GithubTest25.Models
 {
     public class Animal
     {
-		private string _name;
+		private string _nameCrome;
 
-		public string Name
+		public string NameCrome
 		{
-			get { return _name; }
-			set { _name = value; }
+			get { return _nameCrome; }
+			set { _nameCrome = value; }
 		}
 
 	}
